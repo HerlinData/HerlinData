@@ -28,14 +28,6 @@
 </table>
 
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-  <img src="https://github.com/HerlinData/HerlinData/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
-
-
-
 <hr width="60%" >
 <h3 align="left">Contacto:</h3>
 <p align="left">
