@@ -7,10 +7,10 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 🔥 Apasionado por la Innovación en Tecnología y Análisis de Datos
-Con una base sólida en administración y un profundo interés en el análisis de datos, he orientado mi carrera hacia el dinámico mundo de IT. Gracias a mi formación en el bootcamp tecnológico de "Henry", he adquirido habilidades prácticas en Python, SQL, Machine Learning y Power BI, herramientas que me han permitido redescubrir el potencial de los datos para impulsar decisiones estratégicas.
+Con una base sólida en administración y un profundo interés en el análisis de datos, he orientado mi carrera hacia el dinámico mundo de IT. Gracias a mi formación en ciencia de datos, he adquirido habilidades prácticas en Python, SQL, Machine Learning y Power BI, herramientas que me han permitido redescubrir el potencial de los datos para impulsar decisiones estratégicas.
 
 💼 Experiencia clave en Proyectos de MLOps y Data Analyst
-He participado en proyectos simulados como MLOps y Data Analyst, aplicando tecnologías emergentes para desarrollar soluciones basadas en datos que reflejan mi capacidad para resolver problemas complejos. Estas experiencias han cimentado mi entendimiento práctico de cómo la tecnología puede ser aplicada efectivamente en un contexto de negocio.
+He participado en proyectos simulados como MLOps y Data Analyst, aplicando tecnologías emergentes para desarrollar soluciones basadas en datos que reflejan mi capacidad para resolver problemas complejos.
 
 🎓 Compromiso con el Aprendizaje Continuo y la Comunidad
 Además de mi desarrollo profesional, estoy comprometido con el aprendizaje continuo, actualmente en proceso de obtener certificaciones en tecnologías clave. Como Teaching Assistant en "Henry", contribuyo al crecimiento de otros, reforzando mi conocimiento y habilidades de liderazgo.
