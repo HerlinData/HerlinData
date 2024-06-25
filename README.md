@@ -14,10 +14,6 @@ Con una base sólida en Administración y un profundo interés en el análisis d
 
 He participado en proyectos simulados como MLOps y Data Analyst, aplicando tecnologías emergentes para desarrollar soluciones basadas en datos que reflejan mi capacidad para resolver problemas complejos.
 
-🎓 Compromiso con el Aprendizaje Continuo y la Comunidad
-
-Además de mi desarrollo profesional, estoy comprometido con el aprendizaje continuo, actualmente en proceso de obtener certificaciones en tecnologías clave. Como Teaching Assistant en "Henry", contribuyo al crecimiento de otros, reforzando mi conocimiento y habilidades de liderazgo.
-
 🔍 Objetivo Profesional
 
 Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y la gestión empresarial con innovación tecnológica. Estoy particularmente interesado en roles que exploten mi experiencia en MLOps, con el objetivo de optimizar el desarrollo y la operacionalización de soluciones basadas en Machine Learning.
