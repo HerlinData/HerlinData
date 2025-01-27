@@ -9,6 +9,10 @@
 
 Me apasiona resolver problemas con código, trabajar con datos y ofrecer soluciones prácticas que simplifiquen el día a día. También tengo experiencia en guiar equipos de análisis de datos y compartir conocimiento, buscando siempre explorar tecnologías emergentes para desarrollar soluciones prácticas.  
 
+💼 Experiencia laboral clave en Call-Center
+
+Experiencia en automatización de procesos, creación de ETL en Python, usando de almacenamiento SQL Server y diseño de dashboards en Power BI para transformar datos en decisiones estratégicas. He gestionado la validación y optimización de liquidaciones mensuales, asegurando precisión y eficiencia. Manejo indicadores como ocupación, TMO, TME y nivel de servicio, siempre buscando mejorar resultados y tiempos. 
+
 💼 Experiencia clave en Proyectos de MLOps y Data Analyst
 
 He participado en proyectos simulados como MLOps y Data Analyst, aplicando tecnologías emergentes para desarrollar soluciones basadas en datos que reflejan mi capacidad para resolver problemas complejos.
