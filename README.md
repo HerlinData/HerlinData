@@ -22,9 +22,8 @@ He participado en proyectos simulados como MLOps y Data Analyst, aplicando tecno
 Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y la gestión empresarial con innovación tecnológica. Estoy particularmente interesado en roles que exploten mi experiencia en MLOps, con el objetivo de optimizar el desarrollo y la operacionalización de soluciones basadas en Machine Learning.
 
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -42,7 +41,6 @@ Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
 
 
 <hr width="36%" >
