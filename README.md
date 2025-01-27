@@ -23,21 +23,21 @@ Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<p align="left" style="white-space: nowrap;">
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <!-- SQL Server -->
-  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2022" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" width="40" height="40"/>
   </a>
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
