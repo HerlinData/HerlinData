@@ -46,23 +46,6 @@ Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y 
 
 
 <hr width="36%" >
-
-<h3>My GitHub Stats</h3>
-
-<table>
-  <tr>
-    <td>
-      <h3>My GitHub Stats</h3><p>
-      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=HerlinData&show_icons=true&theme=dark&locale=en" alt="HerlinData" /></p>
-    </td>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HerlinData&show_icons=true&theme=dark&locale=en&layout=compact" alt="HerlinData" /></p>
-    </td>
-  </tr>
-</table>
-
-
-<hr width="60%" >
 <h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/herlin-yauri//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
