@@ -29,19 +29,22 @@ Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" width="40" height="40"/>
+  <a href="https://www.php.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="powerbi" width="40" height="40"/>
   </a>
 </p>
-
-
-
 
 
 
@@ -54,10 +57,3 @@ Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y 
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HerlinData&label=Profile%20views&color=0e75b6&style=flat" alt="HerlinData" /> </p>
-
-------
-
-
-[HerlinData](https://github.com/HerlinData)
-
-Last Edited on: 15/03/2024
