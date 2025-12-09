@@ -65,7 +65,7 @@ Busco oportunidades donde pueda fusionar mi pasión por el análisis de datos y 
 <hr width="60%" >
 <h3 align="left">Contacto:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/herlin-yauri-barrios-52a054274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
+<a href="https://www.linkedin.com/in/herlin-yauri//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
 </a>
 <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HerlinData" height="30" width="40" /></a>
 </p>
